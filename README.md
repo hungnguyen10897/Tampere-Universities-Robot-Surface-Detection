@@ -1,4 +1,4 @@
-** Tampere Universities Robot Surface Detection **
+**Tampere Universities Robot Surface Detection**
 
 This is a competion arranged by Tampere Universities on Kaggle.
 
